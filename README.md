@@ -120,28 +120,35 @@ Thanks again for checking my post. I hope it helps you.
 If you want to support me subscribe to my YouTube Channel: https://www.youtube.com/user/tarantula3
 
 Full Blog Post: Blog Post
+
 https://diyfactory007.blogspot.com/2022/07/Police-Car-Led-Effect%20v1.0.1.html
+
 Video: https://youtu.be/4vDtWafMF0M
 
 Related Videos
-1. Adjustable Single/Dual LED Flasher: Video Link
-https://youtu.be/B1URFJywtcI
-2. 555 Pulse Generator Module, How it Works: Video Link
-https://youtu.be/bMAnipPOjFo
+1. Adjustable Single/Dual LED Flasher: https://youtu.be/B1URFJywtcI
 
-Gerber File: Download
-https://github.com/tarantula3/Police-Car-Led-Effect-Using-555-Timer-IC/blob/main/Gerber_Police%20Car%20Like%20LED%20effect_2022-06-26.zip
-Schema: Download
-https://github.com/tarantula3/Police-Car-Led-Effect-Using-555-Timer-IC/blob/main/Schema.png
-Resistor Value Calculator: Open Website
-http://ledcalc.com/
+2. 555 Pulse Generator Module, How it Works: https://youtu.be/bMAnipPOjFo
+
+
+Gerber File: https://github.com/tarantula3/Police-Car-Led-Effect-Using-555-Timer-IC/blob/main/Gerber_Police%20Car%20Like%20LED%20effect_2022-06-26.zip
+
+Schema: https://github.com/tarantula3/Police-Car-Led-Effect-Using-555-Timer-IC/blob/main/Schema.png
+
+Resistor Value Calculator: http://ledcalc.com/
 
 
 Support My Work
 BTC:  1M1PdxVxSTPLoMK91XnvEPksVuAa4J4dDp
+
 LTC:  MQFkVkWimYngMwp5SMuSbMP4ADStjysstm
+
 DOGE: DDe7Fws24zf7acZevoT8uERnmisiHwR5st
+
 ETH:  0x939aa4e13ecb4b46663c8017986abc0d204cde60
+
 BAT:  0x939aa4e13ecb4b46663c8017986abc0d204cde60
+
 LBC:  bZ8ANEJFsd2MNFfpoxBhtFNPboh7PmD7M2
+
 Thanks, ca again in my next tutorial.
